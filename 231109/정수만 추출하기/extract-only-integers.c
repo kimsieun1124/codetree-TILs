@@ -14,7 +14,7 @@ int atoi(char s[]){
 }
 int main() {
     char st[2][9];
-    char i,a,b;
+    int i,a,b;
     for(i=0;i<2;i++) {
         scanf("%s",st[i]);
     }
